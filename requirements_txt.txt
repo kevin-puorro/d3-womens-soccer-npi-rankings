@@ -1,0 +1,21 @@
+# Python packages needed for the NPI calculator project
+# Save as: requirements.txt (in your repository root)
+
+# Web scraping
+selenium==4.15.0
+webdriver-manager==4.0.1
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+
+# For handling dates and times
+python-dateutil==2.8.2
+
+# Optional: for better JSON handling
+requests==2.31.0
+
+# If you're using any other packages in your NPI calculator, add them here
+# For example:
+# matplotlib==3.7.2  # if you want to generate charts
+# plotly==5.17.0     # for interactive visualizations
